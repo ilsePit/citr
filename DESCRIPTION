@@ -10,7 +10,8 @@ Authors@R: c(
   person("Frederik", "Aust", email = "frederik.aust@uni-koeln.de", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-4900-788X")),
   person("Yihui", "Xie", role = "ctb"),
   person("Robin", "Lovelace", role = "ctb"),
-  person("Garrick", "Aden-Buie", role = "ctb")
+  person("Garrick", "Aden-Buie", role = "ctb"),
+  person("Ilse", "Pit", role = "ctb")
   )
 URL: https://github.com/crsh/citr
 BugReports: https://github.com/crsh/citr/issues
